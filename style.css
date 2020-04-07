@@ -7,6 +7,11 @@ body {
   max-width: 1366px;
   background-color: hsl(180, 52%, 96%);
 }
+
+header svg {
+  width: 100%;
+}
+
 .all-job-offers{
   display: flex;
   flex-direction: column;
